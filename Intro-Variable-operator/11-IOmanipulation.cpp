@@ -22,7 +22,7 @@ int main()
     cout << x << " " << y << "\n";
     cout << std::oct;
     cout << x << " " << y << "\n";
-F
+
     cout << std::showpos;  // no
         cout << std::dec;
     cout << x << " " << y << "\n";
