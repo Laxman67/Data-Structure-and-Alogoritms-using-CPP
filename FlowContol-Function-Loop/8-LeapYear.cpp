@@ -9,7 +9,6 @@ int main()
 
     Divisible by 400   ex:2400 , 2800
 
-
     */
 
     int year;
