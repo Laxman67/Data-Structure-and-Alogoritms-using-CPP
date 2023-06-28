@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.ejs": "html",
-        "typeinfo": "cpp",
-        "iostream": "cpp"
-    },
-    "liveServer.settings.port": 5501
-}
