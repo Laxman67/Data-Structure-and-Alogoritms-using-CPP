@@ -11,10 +11,11 @@ int main()
 
     */
 
+    int four = 4, hundread = 100;
     int year;
     cout << "Enter Year to Check its a leap or not : ";
     cin >> year;
-    if (year % 4 == 0 and year % 100 != 0)
+    if (year % four == 0 and year % hundread != 0)
         cout << "Leap Year";
 
     else if (year % 400 == 0)
