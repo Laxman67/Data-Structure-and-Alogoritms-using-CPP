@@ -9,4 +9,9 @@ int main()
     Do-While Loop->>Exit Controlled loop
 
     */
+
+    while (10 < 100)
+    {
+        cout << "Hello";
+    }
 }
