@@ -15,7 +15,7 @@ int averag_Array(int arr[], int n)
 int main()
 {
 
-    int arr[]{10,20,30,40};
+    int arr[]{10, 20, 30, 40};
     int n = sizeof(arr) / sizeof(arr[0]);
 
     int sum = averag_Array(arr, n);
