@@ -1,3 +1,4 @@
 *.exe
 *.secret
 .vscode
+node_module
