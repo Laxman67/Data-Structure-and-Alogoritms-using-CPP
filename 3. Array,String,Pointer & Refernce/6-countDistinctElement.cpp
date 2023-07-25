@@ -18,6 +18,7 @@ int countDistinct(int arr[], int n)
                 break;
             }
         }
+
         if (isDistinct == true)
             count++;
     }

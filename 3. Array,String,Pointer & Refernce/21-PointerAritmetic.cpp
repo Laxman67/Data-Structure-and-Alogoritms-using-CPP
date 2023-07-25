@@ -5,7 +5,7 @@ int main()
 
     int arr[]{10, 20, 30, 60, 90};
     int *ptr = arr;
-    int *ptr2 = arr;
+    int *ptr2 = ptr+5;
     ptr2 = ptr + 5;
     cout << *ptr << endl;
     ptr++;

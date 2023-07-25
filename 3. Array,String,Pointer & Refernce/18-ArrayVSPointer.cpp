@@ -8,6 +8,7 @@ int main()
     cout << sizeof(arr) << endl;
     cout << sizeof(ptr) << endl;
     cout << *(ptr++) << endl;
-    cout << *(ptr)<<endl;
-    cout<<arr[2];
+    cout << *(ptr) << endl
+    ;
+    cout << arr[2];
 }

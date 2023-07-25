@@ -12,5 +12,5 @@ int main()
     char cha[]{'a', 'b', 'c'};
     char *ptr = cha;
     cout << sizeof(ptr) << endl;
-    cout << sizeof(ptr);
+    cout << sizeof(cha);
 }
