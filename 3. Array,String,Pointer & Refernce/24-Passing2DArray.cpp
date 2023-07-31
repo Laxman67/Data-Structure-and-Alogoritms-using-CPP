@@ -9,6 +9,8 @@ void print(int mat[3][2])
             cout << mat[i][j] << " ";
     }
 }
+
+
 int main()
 {
 
