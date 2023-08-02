@@ -2,3 +2,4 @@
 *.secret
 .vscode
 node_module
+CheatSheet.pdf

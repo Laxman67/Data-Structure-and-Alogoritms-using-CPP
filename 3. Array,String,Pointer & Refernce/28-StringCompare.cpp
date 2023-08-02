@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    string s1 = "abc";
+    string s2 = "bcd";
+
+    if (s1 == s2)
+    {
+        cout << "Same";
+    }
+    else if (s1 > s2)
+    {
+        cout << "Greater";
+    }
+    else
+    {
+        cout << "Smaller";
+    }
+}

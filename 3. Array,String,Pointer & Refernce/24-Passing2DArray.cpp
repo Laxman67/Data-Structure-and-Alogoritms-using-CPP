@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+int n = 2, m = 3;
 
 void print(int mat[3][2])
 {
@@ -9,7 +10,6 @@ void print(int mat[3][2])
             cout << mat[i][j] << " ";
     }
 }
-
 
 int main()
 {
