@@ -14,7 +14,7 @@ public:
 class Derived : public Base
 
 {
-private:
+
     int y;
 
 public:
@@ -30,6 +30,6 @@ public:
 
 int main()
 {
-    Derived d(10,70);
+    Derived d(10, 70);
     d.Print();
 }
