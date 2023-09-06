@@ -27,7 +27,7 @@ int main()
 {
 
     int n;
-    n = -9;
+    cin >> n;
 
     int *arr = new int[n];
 
@@ -41,7 +41,7 @@ int main()
         int res = average(arr, n);
         cout << res;
     }
-    catch (ArraySizeZeroException &e1)
+    catch (ArraySizeZeroException &e1)                                     
     {
         cout << "Array is Zero";
     }
