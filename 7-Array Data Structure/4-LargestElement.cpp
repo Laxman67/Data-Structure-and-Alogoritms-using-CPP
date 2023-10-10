@@ -14,7 +14,7 @@ int getLargestEle(int arr[], int size)
 int main()
 {
 
-    int arr[]{20, 7987, 56, 899};
+    int arr[]{20, 900, 56, 1000};
     int size = sizeof(arr) / sizeof(arr[0]);
     cout << getLargestEle(arr, size);
 }
